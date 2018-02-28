@@ -1,4 +1,4 @@
 # Hello-world
 Aprendiendo github
 
-##Jose Manuel Yndriago
+## Jose Manuel Yndriago
